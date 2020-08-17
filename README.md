@@ -21,5 +21,6 @@ Fetch image list for a single user via this URL:
 - http://127.0.0.1:8000/api/item/?uploaded_by=test
 
 ### Example run
-![alt text](https://github.com/namhsuya/django-image-lib/blob/master/test.jpg)
-![alt text](test2.jpg?raw=true "Fetching all images uploaded by test2")
+!["Fetching all images uploaded by test"](test.jpg?raw=true)
+
+!["Fetching all images uploaded by test2"](test2.jpg?raw=true "Fetching all images uploaded by test2")
